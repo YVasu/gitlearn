@@ -1,5 +1,10 @@
 good morning
+<<<<<<< HEAD
 hello
 dgaf
 
 how are you?
+=======
+
+hello every one
+>>>>>>> 0bf7e1188142605e6f44ff7bed7b3a1319759a02
